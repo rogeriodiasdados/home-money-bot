@@ -1,0 +1,3 @@
+Equipamento: Transformador TR-02
+Temperatura_Medida: 94.5
+Pressao_Oleo: Normal

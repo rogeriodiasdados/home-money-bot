@@ -1,0 +1,37 @@
+Como Engenheiro de Manutenção Preditiva, compreendo a urgência e a necessidade de uma ação estratégica para evitar falhas catastróficas. Com os dados fornecidos, o plano de ação é o seguinte:
+
+---
+
+**Plano de Ação Prioritário - Motores com Temperatura Crítica**
+
+**1. Qual motor deve ser checado primeiro e por quê:**
+
+O motor que deve ser checado e ter as ações imediatas aplicadas primeiro é o **Motor 04 - Compressor (96.1°C)**.
+
+**Justificativa:**
+
+*   **Temperatura Mais Elevada:** O Motor 04 apresenta uma temperatura significativamente mais alta (96.1°C) em comparação com o Motor 02 (92.3°C). Temperaturas mais elevadas indicam um estresse maior no componente, maior risco de degradação rápida dos isolamentos elétricos e lubrificantes, e uma proximidade maior de um ponto de falha iminente.
+*   **Criticidade do Equipamento:** Um compressor é, na maioria dos ambientes industriais, um equipamento de missão crítica. Sua falha pode levar à paralisação de múltiplos processos dependentes de ar comprimido (ferramentas pneumáticas, automação, processos químicos, etc.), causando um impacto muito maior na produção do que a paralisação de uma única esteira.
+*   **Risco de Dano Irreversível:** Quanto maior a temperatura e por mais tempo, maior a probabilidade de danos permanentes aos enrolamentos do motor, rolamentos e outros componentes internos, o que pode exigir uma substituição completa em vez de um reparo.
+
+**2. Duas medidas imediatas para conter o superaquecimento antes de desligar a linha:**
+
+Aplicaremos estas medidas *primeiramente* ao Motor 04 e, se a situação do Motor 02 não melhorar com o monitoramento, também a ele.
+
+1.  **Otimização da Ventilação e Limpeza Externa:**
+    *   **Ação:** Inspeção visual imediata das grades de ventilação do motor para verificar se há bloqueios por poeira, detritos ou outros materiais. Se houver, realizar uma limpeza superficial *cuidadosa e segura* (com ar comprimido de baixa pressão, se disponível e seguro, ou escovas) para desobstruir as aletas de resfriamento. Se possível e seguro, direcionar um ventilador industrial externo para a área do motor para aumentar o fluxo de ar de resfriamento.
+    *   **Por quê:** A principal forma de um motor elétrico dissipar calor para o ambiente é através de sua carcaça e aletas, que são projetadas para maximizar a área de troca de calor. Qualquer acúmulo de sujeira ou obstrução reduz drasticamente essa capacidade, agindo como um isolante térmico. O aumento do fluxo de ar ambiente melhora diretamente a convecção de calor.
+
+2.  **Redução da Carga Operacional (se possível):**
+    *   **Ação:** Coordenar com a equipe de Operações para verificar a possibilidade de reduzir temporariamente a carga de trabalho do equipamento acionado pelo motor. Para o compressor, isso pode significar reduzir a demanda de ar comprimido (se houver processos não críticos que possam ser pausados brevemente) ou, se for um compressor de velocidade variável, solicitar uma redução da velocidade. Para a esteira, seria reduzir a quantidade de material transportado ou a velocidade da esteira.
+    *   **Por quê:** A maior parte do calor gerado em um motor elétrico é devido às perdas de cobre (I²R) e perdas no ferro, ambas diretamente relacionadas à carga. Reduzir a carga diminui a corrente que passa pelos enrolamentos do motor, o que por sua vez reduz a geração interna de calor, permitindo que o motor comece a esfriar.
+
+---
+
+**Próximos Passos Essenciais (Acompanhamento):**
+
+*   Monitoramento contínuo da temperatura de ambos os motores após a aplicação das medidas imediatas.
+*   Preparar a equipe de manutenção para um possível desligamento e inspeção detalhada caso as medidas imediatas não surtam efeito e as temperaturas não comecem a cair.
+*   Investigar as causas-raiz do superaquecimento: sobrecarga mecânica, problemas elétricos (desbalanço de fase, tensão inadequada), falha de rolamentos, ou problemas no sistema de acionamento.
+
+A segurança da equipe e a integridade dos equipamentos são prioridades.
