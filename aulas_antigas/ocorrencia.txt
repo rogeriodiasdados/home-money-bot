@@ -1,4 +1,0 @@
-O motor trifásico da esteira 02 parou de funcionar de repente.
-Ao abrir o painel, o disjuntor motor estava desarmado.
-O cabo da fase R apresentava sinais de aquecimento excessivo e cheiro de queimado.
-A tensão medida entre fases estava em 220V, mas a corrente na fase R estava muito acima da nominal antes de desarmar.
